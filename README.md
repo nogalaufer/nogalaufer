@@ -15,10 +15,20 @@
 ---
 
 ## 💬 Connect with me
-<p>
-  <a href="https://www.linkedin.com/in/noga-laufer/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+<h3 align="center">💬 Connect with me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/noga-laufer/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" />
   </a>
-</p> | 📫 **Email:** NogaLaufer1@gmail.com
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:NogaLaufer1@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="36" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>NogaLaufer1@gmail.com</strong>
+</p>
 
 ---
