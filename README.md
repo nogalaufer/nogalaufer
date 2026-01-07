@@ -16,8 +16,6 @@
 
 ## 💬 Connect with me
 
-| 🔗 LinkedIn | 📧 Email |
-|------------|---------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/> [Noga Laufer](https://www.linkedin.com/in/noga-laufer/) | <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="28"/> NogaLaufer1@gmail.com |
 
 
