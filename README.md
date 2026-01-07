@@ -14,11 +14,21 @@
 
 ---
 
-## 💬 Connect with me
-
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/> [Noga Laufer](https://www.linkedin.com/in/noga-laufer/) 
- 
- <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="28"/> NogaLaufer1@gmail.com 
+<table>
+  <tr>
+    <th rowspan="2" align="left">💬 Connect with me</th>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
+      <a href="https://www.linkedin.com/in/noga-laufer/">Noga Laufer</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="20"/>
+      NogaLaufer1@gmail.com
+    </td>
+  </tr>
+</table>
  
 😻
 ---
