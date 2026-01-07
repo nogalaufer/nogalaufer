@@ -19,6 +19,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" />
       <a href="https://www.linkedin.com/in/noga-laufer/">Noga Laufer</a>
     </td>
+      <td rowspan="2" align="center">
+      <img src="assets/scar.png" width="60" />
+    </td>
   </tr>
   <tr>
     <td>
@@ -26,6 +29,7 @@
       <a href="mailto:NogaLaufer1@gmail.com">NogaLaufer1@gmail.com</a>
     </td>
   </tr>
+
 </table> <p align="center">
   <img src="assets/scar.png" width="200"/>
 </p>
