@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 I'm Noga</h2>
+<h2 align="center">Hi 👋</br> I'm Noga!</h2>
 <h3 align="center"><strong>Full Stack Developer</strong> | <em>B.Sc. in Biotechnology</em></h3>
 
 
