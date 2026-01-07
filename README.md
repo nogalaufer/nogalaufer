@@ -16,7 +16,7 @@
 
 <table>
   <tr>
-    <th rowspan="2" align="left">💬 Connect with </br> me</th>
+    <th rowspan="2" align="center">💬 Connect with </br> me</th>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
       <a href="https://www.linkedin.com/in/noga-laufer/">Noga Laufer</a>
@@ -30,7 +30,7 @@
   </tr>
 
   <!-- 🐱 Cat / Image section -->
-  <tr>
+ 
     <td colspan="2" align="center">
       <br/>
       <span style="font-size:48px;">🐱</span>
@@ -39,6 +39,5 @@
       <img src="assets/cat.png" width="200"/>
       -->
     </td>
-  </tr>
 </table>
 ---
