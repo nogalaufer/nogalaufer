@@ -14,33 +14,6 @@
 
 ---
 
-<table>
-  <tr>
-    <!-- Left column: title -->
-    <th rowspan="2" align="left">💬 Connect with me</th>
 
-    <!-- Middle column: LinkedIn -->
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
-      <a href="https://www.linkedin.com/in/noga-laufer/">Noga Laufer</a>
-    </td>
-
-    <!-- Right column: Cat -->
-    <td rowspan="2" align="center">
-      <span style="font-size:48px;">🐱</span>
-      <!--
-      <img src="assets/cat.png" width="120"/>
-      -->
-    </td>
-  </tr>
-
-  <tr>
-    <!-- Middle column: Email -->
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="20"/>
-      NogaLaufer1@gmail.com
-    </td>
-  </tr>
-</table>
 
 ---
