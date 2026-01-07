@@ -18,7 +18,7 @@
 <p >
   <a href="https://www.linkedin.com/in/noga-laufer/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" />
-  </a>
+  </a> &&
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:NogaLaufer1@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="36" />
