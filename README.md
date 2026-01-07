@@ -20,7 +20,7 @@
       <a href="https://www.linkedin.com/in/noga-laufer/">Noga Laufer</a>
     </td>
       <td rowspan="2" align="center">
-      <img src="assets/scar.png" width="60" />
+      <img src="assets/scar.png" width="200" />
     </td>
   </tr>
   <tr>
@@ -30,6 +30,4 @@
     </td>
   </tr>
 
-</table> <p align="center">
-  <img src="assets/scar.png" width="200"/>
-</p>
+</table> 
