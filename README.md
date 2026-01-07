@@ -14,13 +14,13 @@
 
 <table>
   <tr>
-    <th rowspan="2" align="left">💬 Contact me</th>
+    <th rowspan="2" align="center"> Contact me</br>😁</th>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" />
       <a href="https://www.linkedin.com/in/noga-laufer/">Noga Laufer</a>
     </td>
       <td rowspan="2" align="center">
-      <img src="assets/scar.png" width="200" />
+      <img src="assets/scar.png" width="240" />
     </td>
   </tr>
   <tr>
