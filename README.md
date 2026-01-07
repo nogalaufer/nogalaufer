@@ -26,4 +26,6 @@
       <a href="mailto:NogaLaufer1@gmail.com">NogaLaufer1@gmail.com</a>
     </td>
   </tr>
-</table>
+</table> <p align="center">
+  <img src="assets/scar.png" width="80"/>
+</p>
