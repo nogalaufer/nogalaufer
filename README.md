@@ -15,9 +15,7 @@
 ---
 
 ## 💬 Connect with me
-<h3 align="center">💬 Connect with me</h3>
-
-<p align="center">
+<p >
   <a href="https://www.linkedin.com/in/noga-laufer/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" />
   </a>
@@ -27,7 +25,7 @@
   </a>
 </p>
 
-<p align="center">
+<p>
   <strong>NogaLaufer1@gmail.com</strong>
 </p>
 
