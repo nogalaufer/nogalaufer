@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center">
+  <img src="assets/header.png" width="100%" />
+</p>
 
 <!--
 **nogalaufer/nogalaufer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
