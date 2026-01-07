@@ -14,21 +14,15 @@
 
 <table>
   <tr>
-    <th rowspan="2" align="left">💬 Connect with me</th>
-
+    <th rowspan="2" align="left">💬 Contact me</th>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" />
       <a href="https://www.linkedin.com/in/noga-laufer/">Noga Laufer</a>
     </td>
-
-    <td rowspan="2" align="center">
-      <img src="assets/cat.png" width="80" alt="my-lovely-cat"/>
-    </td>
   </tr>
-
   <tr>
     <td>
-      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="20"/>
+      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="18" />
       <a href="mailto:NogaLaufer1@gmail.com">NogaLaufer1@gmail.com</a>
     </td>
   </tr>
