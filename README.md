@@ -27,5 +27,5 @@
     </td>
   </tr>
 </table> <p align="center">
-  <img src="assets/scar.png" width="80"/>
+  <img src="assets/scar.png" width="200"/>
 </p>
