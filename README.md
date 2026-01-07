@@ -30,7 +30,7 @@
   </tr>
 
   <!-- 🐱 Cat / Image section -->
- 
+   <tr>
     <td colspan="2" align="center">
       <br/>
       <span style="font-size:48px;">🐱</span>
@@ -39,5 +39,6 @@
       <img src="assets/cat.png" width="200"/>
       -->
     </td>
+       </tr>
 </table>
 ---
